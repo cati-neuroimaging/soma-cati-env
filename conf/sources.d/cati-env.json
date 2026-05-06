@@ -1,0 +1,37 @@
+{
+    "longitudinal_pipeline": {
+        "branch": "master",
+        "changeset": "0aada8a5a00e73ff7a1eb2a20525165a1b7eb1bf",
+        "url": "https://github.com/cati-neuroimaging/longitudinal_pipelines.git"
+    },
+    "whasa-gpl": {
+        "branch": "master",
+        "changeset": "6a301cec198f4e61607871970cce2f0a4d90157e",
+        "url": "https://github.com/cati-neuroimaging/whasa-gpl.git"
+    },
+    "whasa-nonfree": {
+        "branch": "master",
+        "changeset": "f3d66d3dc822c4839a1aefef0fc806460cfaacb5",
+        "url": "https://github.com/cati-neuroimaging/whasa-nonfree.git"
+    },
+    "sacha-nonfree": {
+        "branch": "master",
+        "changeset": "7baffe0c07541e1e069c154401c95901781918f9",
+        "url": "https://github.com/cati-neuroimaging/sacha-nonfree.git"
+    },
+    "sacha-gpl": {
+        "branch": "master",
+        "changeset": "2fad32f5dde0062de05718fef7fc65ca265f7a13",
+        "url": "https://github.com/cati-neuroimaging/sacha-gpl.git"
+    },
+    "nuclear_imaging-gpl": {
+        "branch": "master",
+        "changeset": "24016734d2a53778cc5c7b7e7f903c70ff61f564",
+        "url": "https://github.com/cati-neuroimaging/nuclear_imaging-gpl.git"
+    },
+    "nuclear_imaging-nonfree": {
+        "branch": "master",
+        "changeset": "86cd122460fee69a51b419d1e0bbb1c7db126903",
+        "url": "https://github.com/cati-neuroimaging/nuclear_imaging-nonfree.git"
+    }
+}
