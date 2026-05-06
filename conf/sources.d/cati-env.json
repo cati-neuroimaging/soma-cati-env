@@ -33,5 +33,10 @@
         "branch": "master",
         "changeset": "86cd122460fee69a51b419d1e0bbb1c7db126903",
         "url": "https://github.com/cati-neuroimaging/nuclear_imaging-nonfree.git"
+    },
+    "catidb-client": {
+        "branch": "main",
+        "changeset": "abb115c3bebf60d50002a1663421b9cef5b258ef",
+        "url": "https://github.com/cati-neuroimaging/catidb-client.git"
     }
 }
