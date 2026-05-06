@@ -1,0 +1,32 @@
+{
+    "bioprocessing": {
+        "branch": "soma-env-6.0",
+        "changeset": "5d78158baecf472627781f547d5b4767a4d4dae7",
+        "url": "https://bioproj.cea.fr/git/bioprocessing"
+    },
+    "brainrat-gpl": {
+        "branch": "soma-env-6.0",
+        "changeset": "7f4bf4debe5981ea37da3c5f2056e76740404a52",
+        "url": "https://bioproj.cea.fr/git/brainrat-gpl"
+    },
+    "brainrat-private": {
+        "branch": "soma-env-6.0",
+        "changeset": "4f54a78f1256098d785729cce882f1a6bc289393",
+        "url": "https://bioproj.cea.fr/git/brainrat-private"
+    },
+    "disco": {
+        "branch": "soma-env-6.0",
+        "changeset": "2a982b7921912469eee8b6dfd6d9e8fc70128727",
+        "url": "https://bioproj.cea.fr/git/brainvisa-disco"
+    },
+    "morphologist-baby": {
+        "branch": "soma-env-6.0",
+        "changeset": "eed91085eaa93d050bc8617eb067dc2469302743",
+        "url": "https://bioproj.cea.fr/git/brainvisa-t1mri/morphologist-baby.git"
+    },
+    "primatologist-gpl": {
+        "branch": "soma-env-6.0",
+        "changeset": "c9347c93b0748728716b6c6e98bfc7a0f4e58cf4",
+        "url": "https://bioproj.cea.fr/git/primatologist-gpl"
+    }
+}
