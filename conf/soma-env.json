@@ -18,7 +18,10 @@
         "soma-base": "6.0.14",
         "soma-freesurfer": "6.0.9",
         "soma-spm": "6.0.9",
-        "soma-workflow": "6.0.9"
+        "soma-workflow": "6.0.9",
+        "cati-longitudinal": "6.0.2",
+        "cati-sacha": "6.0.0",
+        "cati-whasa": "6.0.0"
     },
     "publication": "neuro-forge",
     "version": "6.0"

@@ -15,6 +15,9 @@ requirements:
     - soma-freesurfer
     - soma-spm
     - primatologist
+    - cati-longitudinal
+    - cati-sacha
+    - cati-whasa
 
   run:
     - anatomist
@@ -29,6 +32,9 @@ requirements:
     - soma-freesurfer
     - soma-spm
     - primatologist
+    - cati-longitudinal
+    - cati-sacha
+    - cati-whasa
 
 build:
   script: |
