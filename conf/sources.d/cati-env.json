@@ -24,15 +24,15 @@
         "changeset": "2fad32f5dde0062de05718fef7fc65ca265f7a13",
         "url": "https://github.com/cati-neuroimaging/sacha-gpl.git"
     },
-    "nuclear_imaging-gpl": {
+    "nuclear_imaging": {
         "branch": "master",
         "changeset": "24016734d2a53778cc5c7b7e7f903c70ff61f564",
-        "url": "https://github.com/cati-neuroimaging/nuclear_imaging-gpl.git"
+        "url": "https://github.com/cati-neuroimaging/nuclear_imaging.git"
     },
-    "nuclear_imaging-nonfree": {
+    "nuclear_imaging-cati": {
         "branch": "master",
         "changeset": "86cd122460fee69a51b419d1e0bbb1c7db126903",
-        "url": "https://github.com/cati-neuroimaging/nuclear_imaging-nonfree.git"
+        "url": "https://github.com/cati-neuroimaging/nuclear_imaging-cati.git"
     },
     "catidb-client": {
         "branch": "main",
