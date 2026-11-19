@@ -1,6 +1,6 @@
 [workspace]
 name = "soma-env-6.0"
-channels = ["conda-forge", "pytorch", "nvidia", "https://brainvisa.info/neuro-forge", "file:///volatile/home/hb261775/cati-forge-ns"]
+channels = ["https://prefix.dev/conda-forge", "https://brainvisa.info/neuro-forge"]
 platforms = ["linux-64"]
 version = "6.0"
 
@@ -8,8 +8,8 @@ version = "6.0"
 python = ">=3.10,>=3.9,==3.11"
 typer = "*"
 conda-build = "*"
-pytorch = { version="*", channel="pytorch" }
-torchvision = { version="*", channel="pytorch" }
+pytorch = { version="*" }
+torchvision = { version="*" }
 pyyaml = "*"
 dateutils = "*"
 cmake = "*"
@@ -104,7 +104,7 @@ filelock = "*"
 cati_execlog = "*"
 
 [dependencies.libjpeg-turbo]
-channel = "conda-forge"
+channel = "https://prefix.dev/conda-forge"
 version = ">=3.0.0"
 
 [activation]
