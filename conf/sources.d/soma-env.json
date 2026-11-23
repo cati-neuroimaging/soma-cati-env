@@ -24,21 +24,6 @@
         "changeset": "1f01c5c673aca3aa2f2e0d4a2d0831619f344d90",
         "url": "https://github.com/brainvisa/axon.git"
     },
-    "bioprocessing": {
-        "branch": "soma-env-6.0",
-        "changeset": "0c851021d707dd1802c72fe541e52b8691c3caf4",
-        "url": "https://bioproj.cea.fr/git/bioprocessing"
-    },
-    "brainrat-gpl": {
-        "branch": "soma-env-6.0",
-        "changeset": "a38f070f51878824d8b2d89cccecc59fb6767f2b",
-        "url": "https://bioproj.cea.fr/git/brainrat-gpl"
-    },
-    "brainrat-private": {
-        "branch": "soma-env-6.0",
-        "changeset": "aaecedf82d85130550f6a91beffe45ed363de5c0",
-        "url": "https://bioproj.cea.fr/git/brainrat-private"
-    },
     "brainvisa-cmake": {
         "branch": "master",
         "url": "https://github.com/brainvisa/brainvisa-cmake"
@@ -83,11 +68,6 @@
         "changeset": "9b0400ddf7151f9111712b0b6479bbe72d975629",
         "url": "https://github.com/brainvisa/cortical_surface-nonfree.git"
     },
-    "disco": {
-        "branch": "soma-env-6.0",
-        "changeset": "a5ea25893e28294d5aed8a7781a21d6d6201a4cc",
-        "url": "https://bioproj.cea.fr/git/brainvisa-disco"
-    },
     "highres-cortex": {
         "branch": "soma-env-6.0",
         "changeset": "efaab07a14e7a359c1e3b7a45e9527a9c1cc3364",
@@ -98,11 +78,6 @@
         "branch": "soma-env-6.0",
         "changeset": "1ccf0e82b129d2ce07da0619c26b398797a2e069",
         "url": "https://github.com/brainvisa/morpho-deepsulci.git"
-    },
-    "morphologist-baby": {
-        "branch": "soma-env-6.0",
-        "changeset": "facd37e258edd659699d1295951d27c0ee4da103",
-        "url": "https://bioproj.cea.fr/git/brainvisa-t1mri/morphologist-baby.git"
     },
     "morphologist-gpl": {
         "branch": "soma-env-6.0",
@@ -123,11 +98,6 @@
         "branch": "soma-env-6.0",
         "changeset": "0a63a60e2f9e33e5c1074c336bc516c633be3640",
         "url": "https://github.com/populse/populse_db.git"
-    },
-    "primatologist-gpl": {
-        "branch": "soma-env-6.0",
-        "changeset": "fdd4bc1ba2da8ec691066cec0ab0d41f3b1476b6",
-        "url": "https://bioproj.cea.fr/git/primatologist-gpl"
     },
     "soma-base": {
         "branch": "soma-env-6.0",
